@@ -8,9 +8,11 @@
 
 .benifits-risks .accordion-button {
     background-color: #FDF4E0;
-    color: #5E698B;
+    color: #6f2d05;
     border: 0px;
     border-radius: 5px;
+    font-size: 1.5rem;
+    line-height: 1.8rem;
 }
 
 .benifits-risks .accordion-button:focus {
@@ -31,5 +33,6 @@
 }
 
 .benifits-risks .accordion-body {
-    color: #B17E77;
+    color: #ff5f00;
+    background-color: #F6F8FA;
 }
