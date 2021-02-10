@@ -11,9 +11,10 @@
     color: #6f2d05;
     border: 0px;
     border-radius: 5px;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     line-height: 1.8rem;
     font-weight: bold;
+    text-align: left;
 }
 
 .benifits-risks .accordion-button:focus {
@@ -36,5 +37,5 @@
 .benifits-risks .accordion-body {
     color: black;
     background-color: #F6F8FA;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
 }
